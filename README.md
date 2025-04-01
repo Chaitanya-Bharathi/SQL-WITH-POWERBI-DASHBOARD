@@ -9,7 +9,7 @@ This project demonstrates SQL data analysis and visualization using Power BI. Th
 - Real-time filtering & interactive reports
 
 ## 📂 Dataset
-- The dataset used in this project is available (https://github.com/Chaitanya-Bharathi/SQL-WITH-POWERBI-DASHBOARD/blob/main/awesome-chocolates-data%20(1).sql) (https://github.com/Chaitanya-Bharathi/SQL-WITH-POWERBI-DASHBOARD/blob/main/sales.csv).
+- The dataset used in this project is available (https://github.com/Chaitanya-Bharathi/SQL-WITH-POWERBI-DASHBOARD/blob/main/awesome-chocolates-data%20(1).sql) .
 - Format: SQL tables / CSV files
 
 ## 🛠 Technologies Used
