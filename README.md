@@ -18,7 +18,7 @@ This project demonstrates SQL data analysis and visualization using Power BI. Th
 - **DAX (Data Analysis Expressions)**
 
 ## 📸 Sample Dashboard
-![Power BI Dashboard](https://github.com/Chaitanya-Bharathi/SQL-WITH-POWERBI-DASHBOARD/upload/main)
+![Power BI Dashboard](https://github.com/Chaitanya-Bharathi/SQL-WITH-POWERBI-DASHBOARD/blob/main/power%20bi%20dashboard%20screenshot.png)
 
 ## 🔧 How to Use
 1. Import the SQL script into your database.
